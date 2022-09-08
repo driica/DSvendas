@@ -3,7 +3,7 @@
 <p align="center"> 
   
   <a href="https://github.com/driica">
-    <img alt="Desenvolvido por Adriana Beatriz" src="https://img.shields.io/badge/Desenvolvedor-Adriana_Beatriz-%3498db?color=ff8400&style=for-the-badge">
+    <img alt="Desenvolvido por Adriana Beatriz" src="https://img.shields.io/badge/Desenvolvedora-Adriana_Beatriz-%3498db?color=ff8400&style=for-the-badge">
   </a>
   
 <p>
@@ -44,8 +44,6 @@ O backend foi desenvolvido utilizando o [`Spring Tool Suite 4`](https://spring.i
 ## :memo: **Tarefas**
 
 <div align="center">
-<details>
-<summary>Clique para Visualizar</summary>
 
 |Estado|Tarefa|
 |:---:|:---:|
@@ -126,19 +124,16 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </div>
 
 ---
-## :boy: **Autor**
 
-<div align="center">
-  
-[![Author](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/author.svg)](https://www.linkedin.com/in/rafaelfachinelli/)
+### [](https://github.com/driica/DSvendas#--autor) 💎 Autor 
+<img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
 
-</div>
 
 ---
 ## :page_facing_up: **Licença**
 
 <div align="center">
   
-[![License](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/license.svg)](./LICENSE)
+<p>Copyright © 2022 <strong>Adriana Beatriz.</strong></p>
 
 </div>
