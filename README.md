@@ -27,7 +27,7 @@
 
 <p align="center">
   <kbd>
-    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src=".github/previews/demostração.png">
+    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src="demostração.png">
   </kbd>
 </p>
 
