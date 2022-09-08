@@ -125,7 +125,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ---
 
-### [](https://github.com/driica/DSvendas#--autor) 💎 Autor 
+### [](https://github.com/driica/DSvendas#--autor) 💎 Autora 
 <img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
 
 
